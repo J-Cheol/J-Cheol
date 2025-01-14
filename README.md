@@ -1,7 +1,5 @@
 # 👋 Hello, I'm J-Cheol!
 
---- 
-
 ## 🛠️ Tech Stack
 
 ### **Backend**
@@ -31,19 +29,19 @@
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 
----
-
 ## 📊 GitHub Stats & Achievements
 
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=J-Cheol&show_icons=true&theme=radical" alt="Cheol's GitHub Stats" style="width: 500px; height: 205px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Cheol&layout=compact&theme=radical" alt="Top Languages" style="width: 500px; height: 205px;" />
-</div>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=J-Cheol&show_icons=true&theme=radical" 
+         alt="Cheol's GitHub Stats" width="500" height="205" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Cheol&layout=compact&theme=radical" 
+         alt="Top Languages" width="500" height="205" />
+</p>
 
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=J-Cheol&theme=gruvbox&margin-w=15&margin-h=15" alt="Cheol's Trophy" />
-</div>
+<p align="center" style="margin-top: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=J-Cheol&theme=gruvbox&margin-w=15&margin-h=15" 
+         alt="Cheol's Trophy" />
+</p>
 
----
 ## 📫 Let's Connect!
 - **Email**: [lunaris0206@naver.com](mailto:lunaris0206@naver.com)
