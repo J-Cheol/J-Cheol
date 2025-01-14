@@ -33,9 +33,9 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=J-Cheol&show_icons=true&theme=radical" 
-         alt="Cheol's GitHub Stats" width="500" height="205" />
+         alt="Cheol's GitHub Stats" width="400"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Cheol&layout=compact&theme=radical" 
-         alt="Top Languages" width="500" height="205" />
+         alt="Top Languages" width="400" />
 </p>
 
 <p align="center" style="margin-top: 10px;">
